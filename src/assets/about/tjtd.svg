@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="74px" viewBox="0 0 76 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>统计</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网-关于我们" transform="translate(-754.000000, -920.000000)" fill-rule="nonzero" stroke="#3485FB" stroke-width="3">
+            <g id="统计" transform="translate(756.000000, 922.000000)">
+                <path d="M30.8548697,3 L30.8548697,40.1454517 L69,40.1454517 C66.9795377,57.6354185 51.3994744,70.647781 33.2849289,69.9750597 C15.1703834,69.3023384 0.660452771,55.1724414 0.0217729455,37.5838454 C-0.616097326,19.9948565 12.8338191,4.90853219 30.8548697,3 Z" id="Shape" fill="#BDDCFA"></path>
+                <path d="M40,0 L40,32 L72,32 C71.9996106,14.3267949 57.6732052,0 40,0 Z" id="Shape" fill="#81B3FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1920px" height="597px" viewBox="0 0 1920 597" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="38.3303404%" y1="0%" x2="57.2455043%" y2="104.20836%" id="linearGradient-1">
+            <stop stop-color="#122F92" offset="0%"></stop>
+            <stop stop-color="#3BAFC6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(0.000000, -4994.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Rectangle-12-Copy" points="-8 5250.3926 1928 4993 1928 5591 -8 5591"></polygon>
+        </g>
+    </g>
+</svg>

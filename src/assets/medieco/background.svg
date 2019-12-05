@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1181px" height="951px" viewBox="0 0 1181 951" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 4 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5FC1F5" offset="0%"></stop>
+            <stop stop-color="#545BE6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.861272321">
+        <g id="官网-医咖会" transform="translate(-739.000000, 0.000000)" fill="url(#linearGradient-1)">
+            <path d="M737,-6.66021717 C887.629277,357.339694 1050.04509,549.933563 1224.24744,571.121391 C1485.55096,602.903132 1447.46348,740.690846 1584.24029,843.522556 C1721.0171,946.354266 1825.71418,929.632021 1937.73008,953.471973 C2012.40734,969.365275 2025.82014,626.473981 1977.96847,-75.2019086 L780.307386,-92 L737,-6.66021717 Z" id="Path-4-Copy"></path>
+        </g>
+    </g>
+</svg>
